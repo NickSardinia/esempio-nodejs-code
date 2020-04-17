@@ -1,0 +1,19 @@
+{
+  "name": "esempio-nodejs-code",
+  "version": "1.0.0",
+  "description": "chi se ne frega",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickSardinia/esempio-nodejs-code.git"
+  },
+  "author": "Nicola Pittau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickSardinia/esempio-nodejs-code/issues"
+  },
+  "homepage": "https://github.com/NickSardinia/esempio-nodejs-code#readme"
+}
